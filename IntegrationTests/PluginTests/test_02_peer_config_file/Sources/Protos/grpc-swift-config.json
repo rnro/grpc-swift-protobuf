@@ -1,0 +1,4 @@
+{
+  "protocPath": "/opt/homebrew/bin/protoc",
+  "visibility": "internal"
+}
